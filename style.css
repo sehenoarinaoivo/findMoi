@@ -1,0 +1,19 @@
+.flex-container{
+    display: flex;
+    flex-wrap: wrap;
+    height: 65px;
+    justify-content: space-between;
+}
+
+.div0{
+    text-align: center;
+    color: white;
+}
+
+h3{
+    color: black;
+}
+
+p{
+    background-color:#d20863;
+}
